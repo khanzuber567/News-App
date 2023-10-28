@@ -1,0 +1,317 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* padding-top: 2px; */
+}
+
+/* .Logo{
+    background-image:url("./assets/Logo.jpg");
+    height: 38px;
+    width: 38px;
+    margin-left: -1rem;
+    margin-top: -2rem;
+    border-radius: 5px;
+    background-size: cover;
+    outline: none;
+} */
+
+.form-control{
+    height: 35px;
+    width: 200px;
+    margin-top: 5px;
+    color: white;
+}
+.Search-btn{
+    height: 35px;
+    width: 72px;
+    margin-top: 5px;
+    
+}
+
+/* .Tech-News{
+    height: 20px;
+    width: 110px;
+    margin-top: -3px;
+    text-decoration: none;
+    
+} */
+
+.tech-Mobile {
+    width: 80px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+
+.tech-SM {
+    width: 117px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+
+.tech-Elec {
+    width: 98px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+
+}
+
+.Bollywood {
+    width: 90px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    margin-bottom: 5px;
+
+}
+
+.Hollywood {
+    width: 90px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    margin-bottom: 5px;
+
+}
+
+.Web-Series {
+    width: 112px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    margin-bottom: 5px;
+
+}
+
+.Movie-Review {
+    width: 125px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    margin-bottom: 5px;
+
+}
+.Television{
+    width: 88px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    margin-bottom: 5px;
+
+}
+
+.Cricket {
+    width: 90px;
+    color: white;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+
+.Wrestling {
+    width: 90px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+
+.Tenis {
+    width: 90px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+
+.Football {
+    width: 90px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+
+.Boxing {
+    width: 90px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+
+}
+
+.Cricket {
+    width: 90px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+}
+
+.icons{
+    font-size: 13px;
+    outline: none;
+    text-decoration: none;
+    
+}
+
+.nav-link-1 {
+    width: 50px;
+    height: 20px;
+    font-weight: bold;
+    color: white;
+    border-radius: 16px;
+    font-size: 12px;
+    background-color: black;
+
+}
+
+.nav-link-2 {
+    width: 75px;
+    height: 20px;
+    font-weight: bold;
+    color: white;
+    border-radius: 16px;
+    font-size: 12px;
+    background-color: black;
+
+}
+
+.nav-link-3 {
+    width: 95px;
+    height: 20px;
+    font-weight: bold;
+    font-size: 12px;
+    color: white;
+    border-radius: 16px;
+    background-color: black;
+
+}
+
+.nav-link-4 {
+    width: 50px;
+    height: 20px;
+    font-weight: bold;
+    color: white;
+    font-size: 12px;
+    border-radius: 16px;
+    background-color: black;
+
+}
+
+.nav-link-5 {
+    width: 50px;
+    height: 20px;
+    font-weight: bold;
+    color: white;
+    font-size: 12px;
+    border-radius: 16px;
+    background-color: black;
+}
+
+a:focus {
+    font-weight: bolder;
+}
+
+li {
+    list-style: none;
+}
+
+.text-center {
+    height: 20px;
+}
+
+
+.perent {
+    position: fixed;
+    color: white;
+    width: 100%;
+
+}
+
+.navbar {
+    position: relative;
+    width: 100%;
+    color: white;
+}
+
+
+
+
+.Time{
+    font-size: 10px;
+    margin-top: 4px;
+    margin-right: 2px;
+    direction: float-s;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    color: black;
+    font-weight: bold;
+    color: green;
+
+}
+
+
+
+a{
+    text-decoration: none;
+}
+
+
+.twitter{
+    color: rgb(29,155,240);
+}
+.twitter:hover{
+    transition:  all ease-in-out  0.5s;
+    transform: scale(150%);
+}
+.instagram{
+    color: rgb(243,1,153);
+}
+.instagram:hover{
+    transition:  all ease-in-out  0.5s;
+    transform: scale(150%);
+}
+
+.whats-app{
+    color: green;
+}
+
+.whats-app:hover{
+    transition:  all ease-in-out  0.5s;
+    transform: scale(150%);
+}
+
+.Linkedin:hover{
+    transition:  all ease-in-out  0.5s;
+    transform: scale(150%); 
+}
+
+.Facebook:hover{
+    transition:  all ease-in-out  0.5s;
+    transform: scale(150%); 
+}
+
+.you-tube{
+    color: red;
+}
+
+.you-tube:hover{
+    transition:  all ease-in-out  0.5s;
+    transform: scale(150%);
+}
+
+.Google{
+    color: rgb(233,175,0);
+}
+
+.Google:hover{
+    transition:  all ease-in-out  0.5s;
+    transform: scale(150%);
+}
